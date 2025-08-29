@@ -1,0 +1,29 @@
+{
+  "name": "com.crossinglears.hapticfeedback",
+  "displayName": "Haptic Feedback Plus",
+  "version": "1.0.4",
+  "unity": "2019.2",
+  "unityRelease": "0f1",
+  "description": "Improved haptic feedback support for both iOS and Android devices. Forked and enhanced from the original by Scott Doxey.",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.modules.androidjni": "1.0.0"
+  },
+  "keywords": [
+    "ios",
+    "android",
+    "haptic"
+  ],
+  "author": {
+    "name": "Scott Doxey",
+    "email": "hello@scottdoxey.com",
+    "homepage": "http://scottdoxey.com/"
+  },
+  "contributors": [
+    {
+      "name": "Crossing Lears",
+      "email": "main@crossinglears.com",
+      "homepage": "https://crossinglears.com/"
+    }
+  ]
+}
