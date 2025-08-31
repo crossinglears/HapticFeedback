@@ -38,12 +38,13 @@ namespace CrossingLearsEditor
             EditorGUILayout.EndVertical();
 
             bool au = false, hf = false;
+            GUILayout.Space(5);
             GUILayout.BeginHorizontal();
-            au = GUILayout.Button("Apply AudioClip");
-            hf = GUILayout.Button("Apply Haptic");
+            au = GUILayout.Button("Apply AudioClip", GUILayout.Height(25));
+            hf = GUILayout.Button("Apply Haptic", GUILayout.Height(25));
             GUILayout.EndHorizontal();
 
-            if (GUILayout.Button("Apply to all Selected Buttons"))
+            if (GUILayout.Button("Apply to all Selected Buttons", GUILayout.Height(25)))
             {
                 au = hf = true;
             }
