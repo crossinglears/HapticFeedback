@@ -15,15 +15,8 @@
     "haptic"
   ],
   "author": {
-    "name": "Scott Doxey",
-    "email": "hello@scottdoxey.com",
-    "homepage": "http://scottdoxey.com/"
-  },
-  "contributors": [
-    {
-      "name": "Crossing Lears",
-      "email": "main@crossinglears.com",
-      "homepage": "https://crossinglears.com/"
-    }
-  ]
+    "name": "Crossing Lears",
+    "email": "main@crossinglears.com",
+    "homepage": "http://crossinglears.com/"
+  }
 }
