@@ -62,6 +62,7 @@ namespace CrossingLearsEditor
                     {
                         bf.hapticFeedbackStrength = hapticFeedbackStrength;
                     }
+                    EditorUtility.SetDirty(bf);
                 }
             }
         }
