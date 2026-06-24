@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEngine.UI;
 using CrossingLears;
 
-namespace CrossingLearsEditor
+namespace CrossingLears.Editor
 {
     public class HapticFeedbackTab : CL_WindowTab
     {

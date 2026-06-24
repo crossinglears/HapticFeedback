@@ -4,10 +4,8 @@ using UnityEngine;
 
 namespace CrossingLears.HapticFeedback
 {
-
     public class HapticFeedbackController : MonoBehaviour
     {
-
         public void LightFeedback()
         {
             HapticFeedback.LightFeedback();
